@@ -18,3 +18,12 @@ For example:</br>
 In a line ``23 5 123 3 9909 1233 123``</br>
 23 is the anonymized user ID, 5 is the number of her friends, 123, 3, 9909, 1233 and 123 are the IDs of her friends.
 
+## BibTex Entry
+```
+@inproceedings{Chen_Swarm17,
+ author = {Yang Chen and Cong Ding and Jiyao Hu and Ruichuan Chen and Pan Hui and Xiaoming Fu},
+ title = {{Measurement and Analysis of the Swarm Social Network with Tens of Millions of Nodes}},
+ booktitle = {Technical report, School of Computer Science, Fudan University},
+ year = {2017},
+}
+```
