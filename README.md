@@ -1,11 +1,11 @@
-# The check-in data of more than 62 million Swarm users and their social graph
+# An anonymized dataset of 60+ million users of the Swarm App
 
 Measurement and Analysis of the Swarm Social Network with Tens of Millions of Nodes (full citation below)
 
 Licensed under [Creative Commons Attribution Share Alike 4.0](http://choosealicense.com/licenses/cc-by-sa-4.0/).
 
 ## Description
-We collected more than 62 million Swarm users with their total check-in numbers and their friendlists.
+This dataset covers more than 62 million users of the Swarm App, including the friend list and the total number of check-ins of each user.
 
 ## Files
 Download link:  
