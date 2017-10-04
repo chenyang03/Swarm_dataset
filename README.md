@@ -9,8 +9,8 @@ This dataset covers more than 60 million users of the Swarm App, including the f
 
 ## Files
 Download link:  
-* [check-in_nums.rar](https://drive.google.com/open?id=0B6Ct8a-6OQtfSFFHRGd1aW5hQWc): all the Swarm users' check-in numbers</br>
-Each line in ``check-in_nums.txt`` is in the form of a pair (anonymized_user_ID, check-in_number). e.g. ``32, 9334`` means the anonymized user ID is 32 and she has conducted 9334 check-ins in total.
+* [check-in_nums.tar.gz](https://drive.google.com/open?id=0BzqKlrv6Cfg0VktzcmNvTUhyeTg): all the Swarm users' check-in numbers</br>
+Each line in ``checkins_info.txt`` is in the form of a pair (anonymized_user_ID, check-in_number). e.g. ``32, 9334`` means the anonymized user ID is 32 and she has conducted 9334 check-ins in total.
 
 * [edges.rar](https://drive.google.com/open?id=0B6Ct8a-6OQtfX2tnQklHR3Jkd0E): all the Swarm users' friendlists</br>
 Each line in ``friends_add_edges.txt``, extracted from ``edges.rar`` starts with an anonymized user ID and the number of her friends, then followed by a list of IDs of her friends.</br>
