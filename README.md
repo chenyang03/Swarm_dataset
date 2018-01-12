@@ -20,10 +20,10 @@ In a line ``23 5 123 3 9909 1233 123``</br>
 
 ## BibTex Entry
 ```
-@inproceedings{Chen_Swarm17,
+@article{Chen_Swarm18,
  author = {Yang Chen and Jiyao Hu and Hao Zhao and Yu Xiao and Pan Hui},
  title = {{Measurement and Analysis of the Swarm Social Network with Tens of Millions of Nodes}},
- booktitle = {Technical report, School of Computer Science, Fudan University},
- year = {2017},
+ journal = {IEEE Access},
+ year = {2018},
 }
 ```
